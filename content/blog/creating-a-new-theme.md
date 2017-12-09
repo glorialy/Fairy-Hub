@@ -20,34 +20,19 @@ We'll start with creating a new site with a very basic template. Then we'll add 
 
 In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
 
-Here's an example:
+Here's an example:  
 
-```
-## this is a comment
-$ echo this is a command
-this is a command
+## 利用图片链接转到YouTube视频  
 
-## edit the file
-$vi foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
+[![测试图片](https://img.youtube.com/vi/Hj-CC-kPMeE/0.jpg)](https://www.youtube.com/watch?v=Hj-CC-kPMeE)
 
-bah and humbug
-:wq
+## 直接添加视频  
 
-## show it
-$ cat foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
-
-bah and humbug
-$
-```
-
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/OhlVBpEnjig">
+    </iframe>
+</div>  
 
 ## Some Definitions
 

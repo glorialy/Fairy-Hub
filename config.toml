@@ -1,10 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "South Eads Street"
+title = "S. Eads Street - 南一街"
 theme = "hugo-future-imperfect-master"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "southeads"
 googleAnalytics = ""
 pluralizeListTitles = false
 
