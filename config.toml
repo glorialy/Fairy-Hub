@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "southeads.com"
 languageCode = "en-us"
 title = "S. Eads Street - 南一街"
 theme = "hugo-future-imperfect-master"
@@ -20,8 +20,8 @@ pluralizeListTitles = false
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = true
   # Sets RSS icons to appear on the sidebar with the social media buttons
-  rssAppearAtTop       = true
-  rssAppearAtBottom    = true
+  rssAppearAtTop       = false
+  rssAppearAtBottom    = false
   # Sets Social Media icons to appear on the sidebar
   socialAppearAtTop    = true
   socialAppearAtBottom = true
@@ -143,7 +143,7 @@ pluralizeListTitles = false
   xing            = ""
   slideshare      = ""
   # Social Networks
-  facebook        = "example"
+  facebook        = ""
   googleplus      = ""
   reddit          = ""
   quora           = ""
@@ -155,7 +155,7 @@ pluralizeListTitles = false
     qq              = "" # User ID Number
   instagram       = "yan.lu_6512"
   tumblr          = ""
-  twitter         = "example"
+  twitter         = ""
   skype           = ""
   snapchat        = ""
   pinterest       = ""
