@@ -1,4 +1,4 @@
-baseurl = "southeads.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "S. Eads Street - 南一街"
 theme = "hugo-future-imperfect-master"
