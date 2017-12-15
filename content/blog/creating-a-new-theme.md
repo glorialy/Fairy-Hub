@@ -1,6 +1,6 @@
 +++
 author = "Theme author"
-categories = ["Lady L"]
+categories = ["柴米油盐"]
 date = "2017-12-01"
 description = "Learn how to create a theme on Hugo"
 featured = "pic02.jpg"

@@ -1,6 +1,6 @@
 +++
 author = "Lady L"
-categories = ["Lady L"]
+categories = ["有点儿意思的碎碎念"]
 date = "2017-12-09"
 description = "Learn how to create a new blog in southeads.com"
 featured = "pic01.jpg"
