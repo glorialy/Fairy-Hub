@@ -61,9 +61,9 @@ pluralizeListTitles = false
 [params.intro]
   header    = "南一街"
 
-  paragraph = "我们从哪里来到哪里去。我们是谁。<i class='fa fa-hand-peace-o'></i>"
+  paragraph = "我们是Lady L和有道理。 <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "大家好，我们是谁谁谁和谁谁谁。这是谁谁谁。"
+  about     = "Hey, we are  <b> Lady L </b> and  <b> Always Right </b> ."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
