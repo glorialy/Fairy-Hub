@@ -1,29 +1,20 @@
 +++
 title = "我是谁"
-date = "2014-04-09"
+date = "2017-12-14"
 +++
 
-This site is for Xiaoke and Lady L.
+南一街的街坊们，你们好呀！我们是Lady L和小伙伴“有道理”.  
+>感觉我们随时要开始卖千层蛋糕了233333。
 
+“南一街”起源于我们上周四的一次拍大腿夜谈，没想到短短一个周末就上线啦，是不是很棒棒呀。  
+>虽然现在手很快，以后该拖的稿还是会拖的...
 
-中文的默认字体如下
+这里之所以叫“南一街”而不是“西四胡同”还是有点渊源的。五年前的夏天，我还是少女L的时候，初来米国，落脚弗吉尼亚的第一个长租房就在这里South Eads Street in Crystal City。这里是在华盛顿的留学生们的聚居地，大家把这里叫做“水晶城”。但是比起这么华丽的名字，我还是更喜欢“南一”这个朴实的又有点像国内街道的名字。我在那里认识的朋友们，时至今日依旧那么亲密，一提到这个名字心里就开始暖洋洋起来。  
+>首先，你在我心里依旧是少女L！这条街很暖很热闹，大家喜欢互相串门和结伴出游。每家店每个小区我们都能叫得上名字说得出故事。
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+我其实搬离“南一”街很久了，事实上我只在那住了一年就搬去了隔壁小区，从那以后，“南一”街上的“有道理”她们家就成了我的棋牌室或者说是活动中心可能更为贴切。每周必去，混吃混合，拉着三五好友打一晚上牌。这种日子，现在回忆起来，实在是怀念。可是那样的日子随着毕业的到来戛然而止，没多久我也搬去了纽约。这三年来一共回去了四趟，看着周围的商场变了样子，附近的新小区一个个拔地而起，可惜当年的朋友四散他乡，这里好像和我没有一点关系，又仿佛到处都是联系。  
+>我本人还留守在这条街上没有离开，街头街尾搬来搬去，念书毕业恋爱结婚生子一条龙！也许不久的将来也会离开，但归属感和回忆一直都会在~
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## 副标题
-
-小标题 [Hugo](http://gohugo.io/):
-
-* 步骤 [Go](http://golang.org/)
-* 尝试连接 [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+“南一街”可不是“本地生活指南”,也不是Lady L和有道理的2012-2014回忆录(我俩这年纪写回忆录还是有点早)，它是个温暖的休息站，在高速上奔走久了，给自己五分钟，加个油，休息一下吧。
 
 谢谢大家！么么哒~
